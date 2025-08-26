@@ -22,6 +22,6 @@ streamlit run dashboard.py
 
 
 ## 📚 Author
-**John**  
+**Johnpaul Chinnam**  
 B.Tech CSE @ GMR Institute of Technology  
 Focused on IoT, cloud integration, and real-world applications
