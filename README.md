@@ -19,3 +19,11 @@ pip install gspread oauth2client streamlit
 3. Add your `credentials.json` file to the root folder
 4. Run the dashboard:
 streamlit run dashboard.py
+## 📸 Screenshots
+![Dashboard Screenshot 1](dashboard1.png)
+![Dashboard Screenshot 2](dashboard2.png)
+
+## 📚 Author
+**John**  
+B.Tech CSE @ GMR Institute of Technology  
+Focused on IoT, cloud integration, and real-world applications
